@@ -1,1 +1,1 @@
-Homepage of 2nd IJCAI-AIF
+Homepage of the 2nd IJCAI-AIF
